@@ -1,0 +1,1 @@
+hi hello, how are you, we are testing for sync and async concepts, in javascript. do you also want to Learn? PLEASE tell.
